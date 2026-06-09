@@ -28,6 +28,6 @@ I am a first year Computer Science PhD student in the [Teamcore Group](https://t
 
 I completed my Bachelor's in Computer Science at the [University of Michigan](https://www.engin.umich.edu/). During my undergaduate years, I worked in the [AI Group](https://ai.jpl.nasa.gov/) at the [Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) where I was advised by [Dr. Steve Chien](https://ai.jpl.nasa.gov/public/people/chien/). At JPL, my research focused on planning intelligent satellite observations for Earth science applications.
 
-I have 11 peer-reviewed publications. Check out my Publications page or [Download my CV](/assets/pdf/Akseli_Kangaslahti_CV.pdf) for more details (last updated June 9th, 2026).
+I have 11 peer-reviewed publications. Check out my Publications page or [Download my CV](/assets/pdf/Akseli_Kangaslahti_CV.pdf) for more details (last updated June 9th, 2026). See my [Google Scholar](https://scholar.google.com/citations?user=RwN9aHMAAAAJ) for an up-to-date list.
 
 My email is akselikangaslahti (at) g (dot) harvard (dot) edu. Feel free to reach out to talk about research!
